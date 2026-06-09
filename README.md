@@ -20,7 +20,7 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 
 # 🚀 About Me
 
-🎓 B.Tech CSE (Data Science & Big Data Analytics) at KL University
+🎓 B.Tech CSE'26 at KL University
 
 💼 Full Stack Engineer at Azentrix Digital Services
 
@@ -47,6 +47,7 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 - Node.js
 - AWS
 - MongoDB
+- My SQL
 - Full Stack Development
 
 📫 Reach Me
