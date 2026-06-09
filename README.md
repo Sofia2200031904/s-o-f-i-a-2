@@ -56,26 +56,33 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
-<p align="left">
-<a href="https://www.linkedin.com/in/smile-sofia-challa/" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=linkedin" height="50" />
+<p align="center">
+<a href="https://www.linkedin.com/in/smile-sofia-challa/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="50"/>
 </a>
 
-<a href="https://github.com/Sofia2200031904" target="blank">
-<img align="center" src="https://skillicons.dev/icons?i=github" height="50" />
+<a href="https://github.com/Sofia2200031904" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://www.codechef.com/users/smile_sofia_26" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/codechef.svg" height="50" />
+<a href="https://www.codechef.com/users/smile_sofia_26" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" height="50"/>
 </a>
 
-<a href="https://leetcode.com/u/2200031904/" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/leetcode.svg" height="50" />
+<a href="https://leetcode.com/u/2200031904/" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="50"/>
+</a>
+
+<a href="https://www.hackerrank.com/profile/h2200031904" target="_blank">
+<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="50"/>
+</a>
+
+<a href="https://smilesofia.my.canva.site/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge"/>
 </a>
 </p>
-
 ---
 
 # 💻 Tech Stack
