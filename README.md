@@ -189,38 +189,6 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 
 ---
 
-# 📈 GitHub Statistics
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Sofia2200031904&show_icons=true&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Sofia2200031904&theme=tokyonight&hide_border=true"/>
-</p>
-
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sofia2200031904&layout=compact&theme=tokyonight&hide_border=true"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=Sofia2200031904&theme=tokyonight&row=2&column=4"/>
-</p>
-
----
-
-# 📊 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Sofia2200031904&theme=tokyo-night"/>
-</p>
-
----
-
 # 🔥 Current Focus
 
 ✔ Full Stack Development
