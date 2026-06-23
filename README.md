@@ -32,7 +32,9 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 
 🏆 Mahakumbh Hackathon Finalist
 
-🏆 Competitive Programming Achievements - ⭐ 5-Star Coder on CodeChef (Division 1)
+## 🏆 Competitive Programming Achievements
+
+- ⭐ 5-Star Coder on CodeChef (Division 1)
 
 🌱 Currently Learning
 
