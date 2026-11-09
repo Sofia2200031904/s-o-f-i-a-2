@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Smile Sofia Challa</h1>
 
 <h3 align="center">
-Full Stack Engineer | Cloud Engineer | AI & Data Engineering Enthusiast
+Software Engineer | Full Stack Developer | AI & Data Enthusiast
 </h3>
 
 <p align="center">
-Building scalable web applications, AI-powered systems, and cloud-native solutions.
+Building full-stack applications, AI-powered tools, and data projects.
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Full+Stack+Engineer;Cloud+Engineer;AI+Developer;Data+Engineering+Enthusiast;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Software+Engineer;Full+Stack+Developer;AI+%26+Data+Enthusiast;Always+Learning+New+Technologies" />
 </p>
 
 <p align="center">
@@ -20,25 +20,26 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 
 # 🚀 About Me
 
-🎓 B.Tech CSE'26 at KL University
+🎓 B.Tech CSE'26, KL University (Data Science and Big Data Analytics)
 
-💼 Full Stack Engineer at Azentrix Digital Services
+💼 Former Full Stack Developer Intern at Azentrix Digital Services
 
-☁️ Former AWS Data Engineer Intern at AICTE
+☁️ AWS Academy Virtual Intern (Cloud; Data Engineering), AICTE & EduSkills
 
 🤖 Passionate about Artificial Intelligence, Cloud Computing and Full Stack Development
 
-🏆 Amaravati Drone Hackathon Finalist
+🏆 Team Lead & Finalist, Mahakumbh 2025 Hackathon (IIIT Allahabad)
 
-🏆 Mahakumbh Hackathon Finalist
+🏆 Shortlisted for Round 2, Intain FinTech Challenge 2026
 
-## 🏆 Competitive Programming Achievements
+## 🧩 Problem Solving
 
-- ⭐ 5-Star Coder on CodeChef (Division 1)
+- ⭐ 511 LeetCode problems solved (276 Medium, 88 Hard)
+- 🥇 HackerRank gold badges in Problem Solving, Java, Python, and C
 
 🌱 Currently Learning
 
-- Spring Boot
+- Advanced Spring Boot
 - Advanced React
 - AWS Solutions Architecture
 - System Design
@@ -51,7 +52,8 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 - Node.js
 - AWS
 - MongoDB
-- My SQL
+- MySQL
+- FastAPI
 - Full Stack Development
 
 📫 Reach Me
@@ -71,10 +73,6 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 <img src="https://skillicons.dev/icons?i=github" height="50"/>
 </a>
 
-<a href="https://www.codechef.com/users/smile_sofia_26" target="_blank">
-<img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/codechef.svg" height="50"/>
-</a>
-
 <a href="https://leetcode.com/u/2200031904/" target="_blank">
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/leetcode.svg" height="50"/>
 </a>
@@ -83,7 +81,7 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 <img src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/hackerrank.svg" height="50"/>
 </a>
 
-<a href="https://smilesofia.my.canva.site/" target="_blank">
+<a href="https://smile-sofia-challa-portfolio.vercel.app/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge"/>
 </a>
 </p>
@@ -94,25 +92,25 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 ### Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=java,python,javascript,c,mysql" />
+<img src="https://skillicons.dev/icons?i=java,python,javascript,ts,c" />
 </p>
 
 ### Frontend
 
 <p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,tailwind" />
 </p>
 
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=nodejs,express" />
+<img src="https://skillicons.dev/icons?i=spring,fastapi,django,nodejs,express" />
 </p>
 
 ### Database
 
 <p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql" />
+<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb" />
 </p>
 
 ### Cloud
@@ -131,17 +129,19 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 
 # 🏆 Achievements
 
-✨ Full Stack Engineer at Azentrix Digital Services
+✨ Former Full Stack Developer Intern at Azentrix Digital Services
 
-✨ AWS Data Engineer Intern at AICTE
+✨ Google Cloud Certified Associate Cloud Engineer
 
 ✨ Public Relations Lead - KL Intel Innovation Club
 
 ✨ Project Lead - Garuda Drone Technology Club
 
-✨ Amaravati Drone Hackathon Finalist
+✨ Team Lead & Finalist, Prayagraj Mahakumbh 2025 Hackathon
 
-✨ Mahakumbh Hackathon Finalist
+✨ Shortlisted for Round 2, Intain FinTech Challenge 2026
+
+✨ Cleared Round 1: BNY Code Divas 2026, Fractal iqigai AI Fellowship 2026, Tata Imagination 2026, Marsh AeroHack 2025
 
 ✨ Mentored student innovation projects
 
@@ -149,41 +149,43 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 
 # 🌟 Featured Projects
 
-## 🛒 Retail Intelligence Chatbot Platform
+## 🏦 Loan Data Verification Copilot
+*Shortlisted for Round 2, Intain FinTech Challenge 2026*
 
-- React.js
-- Node.js
-- MongoDB
-- Retail Analytics Dashboard
-- Customer Query Automation
-
----
-
-## 📊 End-to-End E-Commerce Data Pipeline
-
-- Azure
-- ETL
-- Power BI
-- Real-Time Analytics
-- Business Intelligence
+- FastAPI · MongoDB · React · TypeScript · Docker
+- 25 REST endpoints, deterministic validation rules
+- JWT auth with 3 roles, SHA-256 audit trail
 
 ---
 
-## 🏢 ERP Management System
+## 📄 DocuMind: AI Document Q&A Assistant
 
-- Java
-- Database Management
-- User Authentication
-- Role Based Access
+- FastAPI · LangChain · FAISS · React
+- RAG answers over PDFs with cited sources
+- Refuses when no evidence is found
 
 ---
 
-## 📋 Team Task Manager
+## ✈️ Airways Reservation System
 
-- JavaScript
-- Task Scheduling
-- Team Collaboration
-- Productivity Dashboard
+- Java · Spring Boot · Spring Data JPA · MySQL
+- 26 REST endpoints over 9 tables
+- Transactional seat booking, BCrypt passwords
+
+---
+
+## 🕒 Employee Attendance & Analytics API
+
+- Python · FastAPI · MongoDB
+- 12 endpoints, 5 aggregation pipelines
+- Audit trail for attendance corrections
+
+---
+
+## 📊 E-commerce Data Pipeline (Team Project)
+
+- Azure Blob Storage · Data Factory · Azure SQL · Power BI
+- My role: Azure setup, SQL schema design, Power BI dashboard
 
 ---
 
@@ -195,9 +197,9 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 
 🏅 Salesforce AI Associate
 
-🏅 Wipro Java Full Stack Developer
+🏅 Wipro TalentNext Java Full Stack
 
-🏅 Introduction to Cybersecurity
+🏅 Oracle Analytics Cloud 2025 Certified Professional
 
 ---
 
@@ -205,13 +207,12 @@ Building scalable web applications, AI-powered systems, and cloud-native solutio
 
 ✔ Full Stack Development
 
-✔ Cloud Engineering
+✔ Backend Engineering
 
-✔ AI & Machine Learning
+✔ AI Applications
 
-✔ Data Engineering
+✔ Data Analytics
 
-✔ Open Source Contributions
 
 ---
 
